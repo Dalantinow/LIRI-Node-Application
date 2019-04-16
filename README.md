@@ -31,4 +31,4 @@ node liri.js spotify-this-song Mr. Bombastic
 
 node liri.js movie-this Jurassic Park
 ```
-4. ![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/liri)
+4. ![alt text](liri.png)
