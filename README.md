@@ -32,3 +32,5 @@ node liri.js spotify-this-song Mr. Bombastic
 node liri.js movie-this Jurassic Park
 ```
 4. ![alt text](liri.png)
+
+5. As you can see, for the concert-this request, the next location and date is displayed in the terminal. For the spotify-this-song request, the song title, artist, album, and a small preview of the mp3 through a url. The movie-this request returns reviews of the film, actors, language, country, and plot summary.
